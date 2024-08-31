@@ -1,4 +1,4 @@
-# Test Expo
+# Expo
 
 > Testing Expo apps, modules
 
